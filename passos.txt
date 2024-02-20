@@ -1,0 +1,8 @@
+1º Criar arquivo .htaccess
+2º Criar arquivo index.php
+3º Testar o arquivo index.php usando o echo
+4º Criar o arquivo composer.json
+5º Instalar composer caso não exista
+6º Abrir o cmd do windows
+7º Ir ao diretorio do projeto no cmd
+8º Executar o comando: composer update

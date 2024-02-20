@@ -1,0 +1,16 @@
+{
+  "name": "aleandro/pooii",
+  "description": "Projeto 4º ADS",
+  "authors": [
+    {
+      "name": "Aleandro Ribeiro de Lima",
+      "email": "aleandro.lima@faex.edu.br"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Core\\" : "core",
+      "Sts\\" : "app/sts"
+    }
+  }
+}
